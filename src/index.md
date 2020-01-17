@@ -6,4 +6,4 @@ archiveButtonText: See all posts
 socialImage: ''
 ---
 
-This is the Pushowl's Engineering blog. We write here about all things tech.
+This is the PushOwl's Engineering blog. We write here about all things tech.
