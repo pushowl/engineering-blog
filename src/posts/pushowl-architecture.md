@@ -37,9 +37,4 @@ Below diagram sums up the entire backend stack of PushOwl, and shows various int
 
 ![PushOwl backend stack](/images/pushowl-architecture/po_stack.jpg 'PushOwl backend stack showing interactions between various sub systems')
 
-You can easily try PushOwl on one of the Shopify Development Store
-
-1. Create a Shopify Developer Account: [https://developers.shopify.com](https://developers.shopify.com/)
-2. Create a development store: [https://help.shopify.com/en/partners/dashboard/development-stores](https://help.shopify.com/en/partners/dashboard/development-stores)
-3. Install Shogun on your development store: [https://apps.shopify.com/shogun](https://apps.shopify.com/shogun)
-4. Create a couple of pages. We will take a look.
+Try PushOwl in one of your development stores.
