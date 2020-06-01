@@ -1,9 +1,12 @@
 ---
 title: PushOwl Architecture in a Nutshell
-date: '2020-05-29'
+date: '2020-06-01'
 tags:
   - architecture
   - scaling
+author:
+  name: Abhishek Kumar
+  link: https://www.linkedin.com/in/abhishek-kumar-a9b66418/
 ---
 
 ## About PushOwl
@@ -43,3 +46,5 @@ Below diagram sums up the entire backend stack of PushOwl, and shows various int
 Do you want to see how it all comes together? You can easily test PushOwl by setting up a free [Shopify developer account](https://partners.shopify.com/signup/developer) and add [PushOwl](https://apps.shopify.com/pushowl) to your development store.
 
 You can read more about development stores [here](https://help.shopify.com/en/partners/dashboard/development-stores).
+
+By the way, we are hiring! [Join our team of misfits](https://angel.co/company/pushowl/jobs)!

@@ -1,12 +1,12 @@
 {
   "showThemeCredit": true,
-  "name": "PushOwl Engineering ⚙️",
+  "name": "PushOwl Engineering 🦉⚙️",
   "shortDesc": "PushOwl's engineering blog.",
-  "url": "https://hylia.website",
+  "url": "https://engineering.pushowl.com",
   "authorEmail": "engineering@pushowl.com",
   "authorHandle": "@pushowl",
   "authorName": "PushOwl Engineering",
-  "enableThirdPartyComments": false,
+  "enableThirdPartyComments": true,
   "maxPostsPerPage": 5,
   "paymentPointer": "",
   "faviconPath": "/images/favicon.png"

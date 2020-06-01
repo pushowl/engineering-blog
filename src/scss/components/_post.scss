@@ -110,6 +110,7 @@
       max-width: map-get($metrics, 'wrap-inner-max-width');
       margin: 0.5rem auto 0 auto;
       padding: 0 get-size(500);
+      text-align: center;
     }
 
     pre > code {
