@@ -6,6 +6,7 @@ tags:
 author:
   name: Abhishek Kumar
   link: https://www.linkedin.com/in/abhishek-kumar-a9b66418/
+canonicalUrl: https://www.confluent.io/blog/how-pushowl-uses-ksqldb-to-scale-analytics-and-reporting-use-cases/
 ---
 
 *This post was originally authored on [confluent.io](https://www.confluent.io/blog/how-pushowl-uses-ksqldb-to-scale-analytics-and-reporting-use-cases/) blog, on July 27, 2020*
